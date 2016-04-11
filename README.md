@@ -107,11 +107,35 @@ We will discuss ways to develop your questions in a later lesson.
 
 Some companies will ask more in-depth behavioral questions in addition to the ones listed above. To ensure you are prepared, google a list of behavioral interview questions on the internet to get a sense of the diversity of questions you can potentially expect, such as ‘What is your biggest strength?’,  ‘What are you most proud of?’, or ‘How do you use data to solve problems?’
 
-**Assignment**
+## Assignment- Non-technical Interview Questions
 
-Review the key non-technical interview questions above and write down an overview of your answer for each. Practice these until you feel comfortable, confident and excited about your answers….then let that shine through in your interviews!
+Create a Google doc. Title it ""Your Name" + Non-technical Interview Questions."
 
-Bonus: Google “common behavioral interview questions” and get a sense of the range of questions you could be asked and should be ready for.
+Review the key non-technical interview questions above and write down an overview of your answer for each. Here they are again:
+
+- Tell me about yourself
+- Why are you interested in programming/ Why do you want to be a developer?
+- Walk me through your career history/ Tell me about your professional background.
+- What have you built? 
+- What are you looking for in a job? 
+
+Practice these until you feel comfortable, confident and excited about your answers.
+
+**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Non-technical Interview Questions.”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
+
+Update your Careers Prep Tracker sheet.
+
 
 ## Resources
 
