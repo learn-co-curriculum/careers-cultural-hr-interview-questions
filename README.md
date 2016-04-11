@@ -91,7 +91,7 @@ It's fine to say you want to learn in your next job, but that can’t be the onl
 
 An employer is thinking about paying you money to write code, which will likely be linked to that employer making money. What can you do to help this employer make money? Here you can talk about how your specific skills and passions can contribute to that. 
 
-* Why shouldn't you ask explicitly for mentoring? *
+*Why shouldn't you ask explicitly for mentoring?*
 
 When you ask for mentoring from an employer they may misunderstand your abilities and presume that you need excessive supervision or that you cannot work independently.  Asking for mentoring outright makes you appear less confident that you can get the job done yourself (of course you’ll have questions along the way, and that’s expected). Some companies have formal mentoring programs where new employees are paired with more senior employees, and in these cases, you can mention this but the focus of your answer should still be about how you can contribute to the company. 
 
