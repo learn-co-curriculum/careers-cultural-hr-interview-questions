@@ -109,7 +109,7 @@ Some companies will ask more in-depth behavioral questions in addition to the on
 
 ## Assignment
 
-There is nothing to submit after completing this lesson. However, once you are cleared to graduate, your coach will set up a mock cultural/HR-style interview with you. In preparation for that mock interview, your coach will ask you to prepare these questions.
+There is nothing to submit after completing this lesson. However, once you are cleared to graduate, your coach will set up a mock cultural/HR-style interview with you. In preparation for that mock interview, your coach will ask you to prepare for these questions.
 
 ## Resources
 
@@ -117,3 +117,5 @@ There is nothing to submit after completing this lesson. However, once you are c
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-answering-non-technical-interview-questions'>Careers Answering Non-Technical Interview Questions</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-answering-non-technical-interview-questions'>Answering Non-Technical Interview Questions</a> on Learn.co and start learning to code for free.</p>
