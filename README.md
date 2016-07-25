@@ -67,7 +67,15 @@ Good reasons to explain why you left a job:
 - Found a better growth opportunity/new challenge elsewhere
 - Wanted to try a new industry/experience
 
-If you were laid off or fired, below are a few ways to explain that elegantly. Remember to keep it very brief and do not complain or go into detail. 
+If you were laid off or fired, below are a few ways to explain that elegantly. Remember to keep it very brief and do not complain or go into detail. If appropriate, share something you learned from the process. Most importantly, **don't lie about it.** If you're still processing the experience, especially if it was an emotional departure, be sure to talk with your coach and write a script to follow so you'll be prepared to explain how you left your last job. If you can move on quickly, the interviewer will too.
+
+If you were laid off:
+- "I transitioned out of the role following a company restructure/downsizing. Soon after I started working at Company X."
+- "The company decided to close down the division I was a part of. Following that I found a great opportunity doing X at Company Y."
+
+If you were fired:
+- "My manager and I decided to mutually part ways. I didn't fully understand their expectations when I started in the role."
+- "Regrettably, my performance didn't meet the company's expectations. Since then, I have reflected a lot on how I cam improve and am much more confident in my skills now."
 
 **What have you built?**
 
