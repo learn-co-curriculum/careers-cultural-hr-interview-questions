@@ -89,7 +89,7 @@ If your interviewer is an HR or recruiting professional, don’t get too deep in
 
 If your interviewer is a technical professional, you will have to go more in depth. In this case, refer to the tips in our lesson in this track on talking about what you’ve built.
 
-**What are you looking in a job?**
+**What are you looking for in a job?**
 
 *Decoded: Don’t be fooled -- this still isn’t about you. This is your chance to demonstrate the ways you want to contribute to a company, not the place for you to ask for mentoring or to remind the employer of how junior you are.*
 
@@ -103,7 +103,7 @@ An employer is thinking about paying you money to write code, which will likely 
 
 When you ask for mentoring from an employer they may misunderstand your abilities and presume that you need excessive supervision or that you cannot work independently.  Asking for mentoring outright makes you appear less confident that you can get the job done yourself (of course you’ll have questions along the way, and that’s expected). Some companies have formal mentoring programs where new employees are paired with more senior employees, and in these cases, you can mention this but the focus of your answer should still be about how you can contribute to the company. 
 
-**What questions to do you have for me (the interviewer)?**
+**What questions do you have for me (the interviewer)?**
 
 *Decoded: Did you do your research? Do you care? Were you engaged in our conversation? Do you understand standard expectations of interview behavior?* 
 
