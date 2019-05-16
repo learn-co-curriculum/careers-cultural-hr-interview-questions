@@ -1,23 +1,24 @@
 # Cultural/HR Interview Questions
 
-You’re interviewing for a technical position, but that doesn’t mean that only your technical merits will get you the job offer. You’re likely still going to have conversations where the focus is not on your technical skills but on your interpersonal and communication skills. Employers want to figure out if you’re a person they want to spend 40+ hours with every week. They’re looking for a person who is confident, can connect with people, and can create a narrative of their history and background that is easy to understand.
+You’re interviewing for a position that requires a specialized, technical skill set, but that doesn’t mean that only your vocational merits will get you the job offer. You’re likely still going to have conversations where the focus is not on your technical skills but on your interpersonal and communication skills. Employers want to figure out if you’re a person they want to spend 40+ hours with every week. They’re looking for a person who is confident, can connect with people, and can create a narrative of their history and background that is easy to understand.
 
 Generally we have found that if you prepare answers to the below non-technical questions, that you’ll be ready for most interview questions that are thrown your way:
 
 
 1. Tell me about yourself. (Also called “30-second pitch” or “elevator pitch”) Most important to nail down
-2. Why do you want to be a developer?
+2. Why do you want to be a [your intended profession]?
 3. What are you looking for (in a job, in your next step)?
 4. Walk me through your career history/background.
-5. What have you built?
+5. What have you built/created?
 6. What intrigued you about this role or company?
 7. What are your salary expectations?
-8. What did you learn in this online program/How was your experience in Flatiron School’s online program?
+8. What did you learn in this program/How was your experience in Flatiron School’s program?
 [Some behavioral/competency based questions, i.e “Tell me about a time when you…” or “Share an example of a time you [did X]…”)
 9. What questions do you have for me?
 
 
-Non-technical interview questions are always asked by HR professionals and recruiters. However, you can expect technical leaders who interview you to ask these sorts of questions as well.
+Non-technical interview questions are always asked by HR professionals and recruiters. However, you can expect team/company leaders who interview you to ask these sorts of questions as well.
+
 
 ## Decoding Common Interview Questions
 
@@ -31,7 +32,7 @@ This is often the first question that an interviewer asks you, so be prepared to
 
 Once you’ve mastered your answer to this, it will set a strong foundation for many other questions throughout your interview. Your answer for this should consist of your 30-second elevator pitch (as referenced in an earlier lesson) and contain a very brief chronological overview of:
 
-- What you were doing before coding
+- What you were doing before Flatiron School
 - Where are you now (what your excited to be learning and doing at Flatiron School)
 - Where you're going (looking towards your career future)
 
@@ -40,17 +41,17 @@ When answering this question, keep in mind that your interviewer is not only lis
 Note: While we call this a 30-second elevator pitch, in an actual job interview you do have the liberty to make the pitch a little longer to ensure you are highlighting the most relevant and transferable skills and experiences from your career journey that make you a qualified candidate for the role, and so that you are able to do so enthusiastically and natural. In other words, you shouldn’t feel rushed or distracted by worrying, “How many seconds is this taking?”, which can make you appear as anxious and not fully present. However, do still be mindful of time and keep it as close to 30 seconds as possible. 
 
 
-**Why are you interested in programming? / Why do you want to be a developer?**
+**Why are you interested in [your field of study]? / Why do you want to be a [your intended profession]?**
 
-*Decoded: Are you really serious about this career shift and is it genuine? Prove to me you want this because you love to code and not because you’re bored in your old job or want to make more money.*
+*Decoded: Are you really serious about this career shift and is it genuine? Prove to me you want this because you love your field of study and not because you’re bored in your old job or want to make more money.*
 
-It’s crucial that you don’t give credit to someone else for your decision to become a developer. You need to internalize this career choice you have made, and be able to express with genuineness and passion WHY. Especially as a career changer, companies will be less willing to take a chance on investing in you if you can’t articulate why you are invested in this career choice.
+It’s crucial that you don’t give credit to someone else for your decision to get into your chosen profession. You need to internalize this career choice you have made, and be able to express with genuineness and passion WHY. Especially as a career changer, companies will be less willing to take a chance on investing in you if you can’t articulate why you are invested in this career choice.
 
 Why are you so excited about this new career path? What has motivated or inspired you to get here? What was your AHA moment to make this transition? What is the special ‘connection’ you have to coding? These are the types of answers they are looking for.
 
-It’s always best to be specific and tell a story about how you discovered code. Maybe it started in your Intro to CS class in college or perhaps you and a family member used to repair computers together when you were a child. Or maybe you worked in the marketing department at a company and collaborated with devs on a project and got really intrigued with their work. Use imagery to bring the interviewer to that place in time that was your “aha!” moment -- when you knew that you wanted to make programming a major part of your life.
+It’s always best to be specific and tell a story about how you discovered this new profession. Maybe it started in a class in college or perhaps a family member introduced you to computers when you were a child. Or maybe you worked in the marketing department at a company and collaborated with professionals in your field of study on a project and got really intrigued with their work. Use imagery to bring the interviewer to that place in time that was your “aha!” moment -- when you knew that you wanted to make this vocation a major part of your life.
 
-It’s often helpful to explain the effort you put in on your own to learn to code before you arrived at Flatiron School. Did you try Codecademy? What tutorials have you done? What books or blogs did you read?
+It’s often helpful to explain the effort you put in on your own to learn this new vocation before you arrived at Flatiron School. Did you watch YouTube? What tutorials/courses have you done? What books or blogs did you read?
 
 **What are you looking in a job?**
 
@@ -60,7 +61,7 @@ Your answer should not be focused on what you want from the company, but rather 
 
 It's fine to say you want to learn in your next job, but that can’t be the only thing you want out of a job.
 
-An employer is thinking about paying you money to write code, which will likely be linked to that employer making money. What can you do to help this employer make money? Here you can talk about how your specific skills and passions can contribute to that.
+An employer is thinking about paying you money to do what you've just studied and trained to do, which will likely be linked to that employer making money. What can you do to help this employer make money? Here you can talk about how your specific skills and passions can contribute to that.
 
 *Why shouldn't you ask explicitly for mentoring?*
 
@@ -106,17 +107,17 @@ If you were fired:
 - "My manager and I decided to mutually part ways. I didn't fully understand their expectations when I started in the role."
 - "Regrettably, my performance didn't meet the company's expectations. Since then, I have reflected a lot on how I cam improve and am much more confident in my skills now."
 
-**What have you built?**
+**What have you built/created?**
 
-*Decoded: Do you know how to talk about technology? How well do you understand how a project is built from ideation to creation? How well can you present that understanding to different audiences?* 
+*Decoded: Do you know how to talk about your trade? How well do you understand how a project is built from ideation to creation? How well can you present that understanding to different audiences?* 
 
-When you’re asked this question, the interviewer wants to gauge your depth of understanding of what you’ve been studying. Passing a lab on Rails doesn’t make you an expert in Rails or qualify you to be a developer. 
+When you’re asked this question, the interviewer wants to gauge your depth of understanding of what you’ve been studying. Taking an assessment alone doesn’t make you an expert or qualify you to be working in that vocation. 
 
-No matter who your audience is, the best way to approach answering this question is to ask yourself “what problem this app is solving?” Start your answer by presenting this question, followed by explaining how you approached building the app, including each feature purpose and what technologies were used to build each feature. 
+No matter who your audience is, the best way to approach answering this question is to ask yourself “what problem is this project solving?” Start your answer by presenting this question, followed by explaining how you approached building the solution, including each feature's purpose and what technologies/tools were used to build each feature. 
 
-If your interviewer is an HR or recruiting professional, don’t get too deep into technical jargon that likely won’t be familiar to them, possibly making them confused and distracted. Instead, briefly touch on why you built each feature and what mini problems  they solve without getting into technical details beyond the names of the languages and frameworks you used.  
+If your interviewer is an HR or recruiting professional, don’t get too deep into technical jargon that likely won’t be familiar to them, possibly making them confused and distracted. Instead, briefly touch on why you built each feature and what mini problems they solve without getting into technical details.  
 
-If your interviewer is a technical professional, you will have to go more in depth. In this case, refer to the tips in our lesson in this track on talking about what you’ve built.
+If your interviewer is a technical professional, you will have to go more in depth. In this case, refer to the tips in our lesson in this track on talking about what you’ve created.
 
 
 **What intrigued you about this role or company?**
@@ -131,7 +132,7 @@ This is a great question by which smart companies quickly weed out tire kickers.
 
 This is a very important question! In The Salary Question lesson below you will find a fully flushed out response full of helpful information to navigate an appropriate response.
 
-**What questions to do you have for me (the interviewer)?**
+**What questions do you have for me (the interviewer)?**
 
 *Decoded: Did you do your research? Do you care? Were you engaged in our conversation? Do you understand standard expectations of interview behavior?*
 
@@ -187,5 +188,3 @@ To ensure you are as prepared as possible, you can also google a list of behavio
 [9 Things Interviewers Never Tell Job Candidates, But Should](https://www.linkedin.com/pulse/20140916123750-20017018-9-things-interviewers-never-tell-job-candidates-but-should)
 
 [30 Behavioral Interview Questions to Identify High-Potential Candidates](https://drive.google.com/file/d/0BwJpR6RiiEeJbm9samtGdDlRTjA/view)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-answering-non-technical-interview-questions'>Answering Non-Technical Interview Questions</a> on Learn.co and start learning to code for free.</p>
