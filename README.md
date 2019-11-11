@@ -33,7 +33,7 @@ This is often the first question that an interviewer asks you, so be prepared to
 Once you’ve mastered your answer to this, it will set a strong foundation for many other questions throughout your interview. Your answer for this should consist of your 30-second elevator pitch (as referenced in an earlier lesson) and contain a very brief chronological overview of:
 
 - What you were doing before Flatiron School
-- Where are you now (what your excited to be learning and doing at Flatiron School)
+- Where are you now (what you're excited to be learning and doing at Flatiron School)
 - Where you're going (looking towards your career future)
 
 When answering this question, keep in mind that your interviewer is not only listening to your words but is also paying attention to how you say the words and the way you look when saying them. The interviewer not only cares about the content but how you craft the narrative of connecting your various experiences. Regardless of whether you’ve climbed the ranks at an accounting firm or you’ve bounced around to different jobs over the past 5 years, you can create a smooth story of how you’ve moved through each job or experience. If you own that story and speak passionately, it doesn’t matter where you come from.
