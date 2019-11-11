@@ -53,7 +53,7 @@ It’s always best to be specific and tell a story about how you discovered this
 
 It’s often helpful to explain the effort you put in on your own to learn this new vocation before you arrived at Flatiron School. Did you watch YouTube? What tutorials/courses have you done? What books or blogs did you read?
 
-**What are you looking in a job?**
+**What are you looking for in a job?**
 
 *Decoded: Don’t be fooled -- this still isn’t about you. This is your chance to demonstrate the ways you want to contribute to a company, not the place for you to ask for mentoring or to remind the employer of how junior you are.*
 
