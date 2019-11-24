@@ -124,7 +124,7 @@ If your interviewer is a technical professional, you will have to go more in dep
 
 *Decoded: Prove to me that you truly are in invested in what we are about, and that you don’t want just any job; that you want this job! Show me that you mean what you say. Make me feel you care (about us).*
 
-This is a great question by which smart companies quickly weed out tire kickers. They may also ask you something like “What do you know about us? Tell me what you know about our company.
+This is a great question by which smart companies quickly weed out tire kickers. They may also ask you something like “What do you know about us? Tell me what you know about our company".
 
 **What are you salary expectations?**
 
@@ -180,7 +180,7 @@ Below are examples of behavioral interview questions and answers using STAR.
 
 As you can see, the STAR method is a highly effective and simple technique for optimizing your behavioral interview answers. In addition to using this method on site in an interview, you should also incorporate STAR into your pre-interview preparation. First and foremost, read each job description in detail line by line, paying close attention to the responsibilities and qualifications the company is asking for. Then, think of specific examples in which you did those things, embodied those skills, or exuded traits that are relevant and transferable. Better yet, write your examples down and keep them as handy reference for future interviews. That way you'll be prepared ahead of time, rather than having to think of a response on the spot during the interview. Be sure to customize your preparation for every interview since each and every company will be unique. 
 
-To ensure you are as prepared as possible, you can also google a list of behavioral interview questions on the internet to get a sense of the diversity of questions you can potentially expect, such as ‘What is your greatest strength?’, ‘What are you most proud of?’, or ‘How do you use data to solve problems?’ Sometimes you can find examples of the actual interview questions that companies have asked on sites like [glassdoor](glassdoor.com). 
+To ensure you are as prepared as possible, you can also google a list of behavioral interview questions on the internet to get a sense of the diversity of questions you can potentially expect, such as ‘What is your greatest strength?’, ‘What are you most proud of?’, or ‘How do you use data to solve problems?’ Sometimes you can find examples of the actual interview questions that companies have asked on sites like [glassdoor](https://www.glassdoor.com). 
 
 
 ## Resources
