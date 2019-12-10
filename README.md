@@ -33,12 +33,12 @@ This is often the first question that an interviewer asks you, so be prepared to
 Once you’ve mastered your answer to this, it will set a strong foundation for many other questions throughout your interview. Your answer for this should consist of your 30-second elevator pitch (as referenced in an earlier lesson) and contain a very brief chronological overview of:
 
 - What you were doing before Flatiron School
-- Where are you now (what your excited to be learning and doing at Flatiron School)
+- Where are you now (what you're excited to be learning and doing at Flatiron School)
 - Where you're going (looking towards your career future)
 
 When answering this question, keep in mind that your interviewer is not only listening to your words but is also paying attention to how you say the words and the way you look when saying them. The interviewer not only cares about the content but how you craft the narrative of connecting your various experiences. Regardless of whether you’ve climbed the ranks at an accounting firm or you’ve bounced around to different jobs over the past 5 years, you can create a smooth story of how you’ve moved through each job or experience. If you own that story and speak passionately, it doesn’t matter where you come from.
 
-Note: While we call this a 30-second elevator pitch, in an actual job interview you do have the liberty to make the pitch a little longer to ensure you are highlighting the most relevant and transferable skills and experiences from your career journey that make you a qualified candidate for the role, and so that you are able to do so enthusiastically and natural. In other words, you shouldn’t feel rushed or distracted by worrying, “How many seconds is this taking?”, which can make you appear as anxious and not fully present. However, do still be mindful of time and keep it as close to 30 seconds as possible. 
+Note: While we call this a 30-second elevator pitch, in an actual job interview you do have the liberty to make the pitch a little longer to ensure you are highlighting the most relevant and transferable skills and experiences from your career journey that make you a qualified candidate for the role, and so that you are able to do so enthusiastically and naturally. In other words, you shouldn’t feel rushed or distracted by worrying, “How many seconds is this taking?”, which can make you appear as anxious and not fully present. However, do still be mindful of time and keep it as close to 30 seconds as possible. 
 
 
 **Why are you interested in [your field of study]? / Why do you want to be a [your intended profession]?**
@@ -53,7 +53,7 @@ It’s always best to be specific and tell a story about how you discovered this
 
 It’s often helpful to explain the effort you put in on your own to learn this new vocation before you arrived at Flatiron School. Did you watch YouTube? What tutorials/courses have you done? What books or blogs did you read?
 
-**What are you looking in a job?**
+**What are you looking for in a job?**
 
 *Decoded: Don’t be fooled -- this still isn’t about you. This is your chance to demonstrate the ways you want to contribute to a company, not the place for you to ask for mentoring or to remind the employer of how junior you are.*
 
